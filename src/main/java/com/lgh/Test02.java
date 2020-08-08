@@ -8,5 +8,6 @@ public class Test02 {
 
         System.out.println("hww333");
         System.out.println("hww888");
+        System.out.println("辉哥你是最帅的");
     }
 }
