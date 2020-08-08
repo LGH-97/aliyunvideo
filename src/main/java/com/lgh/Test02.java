@@ -10,5 +10,6 @@ public class Test02 {
         System.out.println("hww888");
         System.out.println("辉哥你是最帅的");
         System.out.println("创建了dev分支");
+        System.out.println("主干添加 冲突问题");
     }
 }
