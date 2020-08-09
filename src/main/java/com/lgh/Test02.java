@@ -13,5 +13,6 @@ public class Test02 {
         System.out.println("主干添加 冲突问题");
         System.out.println("dev分支添加 冲突问题");
         System.out.println("准备推送到github");
+        System.out.println("github在线更新的代码");
     }
 }
