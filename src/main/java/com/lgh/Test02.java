@@ -12,5 +12,6 @@ public class Test02 {
         System.out.println("创建了dev分支");
         System.out.println("主干添加 冲突问题");
         System.out.println("dev分支添加 冲突问题");
+        System.out.println("准备推送到github");
     }
 }
